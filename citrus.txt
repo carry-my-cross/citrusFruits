@@ -1,1 +1,2 @@
-Orange is a fruit
+Orange is orange.
+Lemons are yellow. 
